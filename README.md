@@ -101,6 +101,5 @@ When reporting a bug, please include:
 
 ## License
 
-Copyright © Hive 604.
-
+Copyright © Hive 604 Software Inc.
 All rights reserved.
